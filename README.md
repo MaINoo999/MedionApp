@@ -4,3 +4,4 @@ Medion
 - IDE: Android Studio Bumblebee 이상  
 - 타겟 SDK: Android (API 24) 이상
 - Empty View Activity
+- 경로: D드라이브
